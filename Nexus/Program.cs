@@ -1,4 +1,7 @@
-﻿using Injector;
+// Copyright (c) 2025 harharud
+// Licensed under the MIT License.
+
+using Injector;
 using Newtonsoft.Json.Linq;
 using Suspend;
 using System;
