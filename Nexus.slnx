@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Nexus/Nexus.csproj" Id="f6e56511-8d50-46aa-acb3-f74978b01bfd">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
