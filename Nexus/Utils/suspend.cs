@@ -1,4 +1,7 @@
-﻿using System;
+// Copyright (c) 2025 harharud
+// Licensed under the Apache License 2.0.
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
