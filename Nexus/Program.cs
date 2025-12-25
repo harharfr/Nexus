@@ -1,5 +1,5 @@
 // Copyright (c) 2025 harharud
-// Licensed under the MIT License.
+// Licensed under the Apache License 2.0.
 
 using Injector;
 using Newtonsoft.Json.Linq;
